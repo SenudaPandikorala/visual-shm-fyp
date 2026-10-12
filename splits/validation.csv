@@ -1,0 +1,211 @@
+filename,mask_filename,json_filename,labels
+26.jpg,26.png,26.json,Rebar corrosion
+Image_118_1377505.jpg,Image_118_1377505.png,Image_118_1377505.json,Rebar corrosion
+Image_119_463113.jpg,Image_119_463113.png,Image_119_463113.json,Concrete spalling;Crack;Rebar corrosion
+Image_132_587792.jpg,Image_132_587792.png,Image_132_587792.json,Rebar corrosion
+Image_152_7357179.jpg,Image_152_7357179.png,Image_152_7357179.json,Rebar corrosion
+corrosion_2.jpg,corrosion_2.png,corrosion_2.json,Crack;Rebar corrosion
+crack12886.jpg,crack12886.png,crack12886.json,Crack
+crack1289.jpg,crack1289.png,crack1289.json,Crack
+crack1290.jpg,crack1290.png,crack1290.json,Crack
+crack1294.jpg,crack1294.png,crack1294.json,Crack
+crack1336.jpg,crack1336.png,crack1336.json,Crack
+crack1349.jpg,crack1349.png,crack1349.json,Crack
+crack1350.jpg,crack1350.png,crack1350.json,Crack
+crack145.jpg,crack145.png,crack145.json,Crack
+crack1468.jpg,crack1468.png,crack1468.json,Crack
+crack1475.jpg,crack1475.png,crack1475.json,Crack
+crack15.jpg,crack15.png,crack15.json,Crack
+crack15218.jpg,crack15218.png,crack15218.json,Crack
+crack15405.jpg,crack15405.png,crack15405.json,Crack
+crack15406.jpg,crack15406.png,crack15406.json,Crack
+crack15407.jpg,crack15407.png,crack15407.json,Crack
+crack15411.jpg,crack15411.png,crack15411.json,Crack
+crack15463.jpg,crack15463.png,crack15463.json,Crack
+crack15471.jpg,crack15471.png,crack15471.json,Crack
+crack15475.jpg,crack15475.png,crack15475.json,Crack
+crack15476.jpg,crack15476.png,crack15476.json,Crack
+crack15487.jpg,crack15487.png,crack15487.json,Crack
+crack15492.jpg,crack15492.png,crack15492.json,Crack
+crack15498.jpg,crack15498.png,crack15498.json,Crack
+crack15499.jpg,crack15499.png,crack15499.json,Crack
+crack15531.jpg,crack15531.png,crack15531.json,Crack
+crack15585.jpg,crack15585.png,crack15585.json,Crack
+crack15587.jpg,crack15587.png,crack15587.json,Crack
+crack159.jpg,crack159.png,crack159.json,Crack
+crack16512.jpg,crack16512.png,crack16512.json,Crack
+crack1710.jpg,crack1710.png,crack1710.json,Crack
+crack1716.jpg,crack1716.png,crack1716.json,Crack
+crack20444.jpg,crack20444.png,crack20444.json,Crack
+crack20446.jpg,crack20446.png,crack20446.json,Crack
+crack2093.jpg,crack2093.png,crack2093.json,Crack
+crack2098.jpg,crack2098.png,crack2098.json,Crack
+crack2099.jpg,crack2099.png,crack2099.json,Crack
+crack218.jpg,crack218.png,crack218.json,Crack
+crack22914.jpg,crack22914.png,crack22914.json,Crack
+crack23538.jpg,crack23538.png,crack23538.json,Crack
+crack23565.jpg,crack23565.png,crack23565.json,Crack
+crack254.jpg,crack254.png,crack254.json,Crack
+crack2582.jpg,crack2582.png,crack2582.json,Crack
+crack2583.jpg,crack2583.png,crack2583.json,Crack
+crack25904.jpg,crack25904.png,crack25904.json,Crack
+crack260.jpg,crack260.png,crack260.json,Crack
+crack2947.jpg,crack2947.png,crack2947.json,Crack
+crack2951.jpg,crack2951.png,crack2951.json,Crack
+crack330.jpg,crack330.png,crack330.json,Crack
+crack37637.jpg,crack37637.png,crack37637.json,Crack
+crack37662.jpg,crack37662.png,crack37662.json,Crack
+crack4228.jpg,crack4228.png,crack4228.json,Crack
+crack4230.jpg,crack4230.png,crack4230.json,Crack
+crack4370.jpg,crack4370.png,crack4370.json,Crack
+crack4379.jpg,crack4379.png,crack4379.json,Crack
+crack4404.jpg,crack4404.png,crack4404.json,Crack
+crack4410.jpg,crack4410.png,crack4410.json,Crack
+crack4420.jpg,crack4420.png,crack4420.json,Crack
+crack4644.jpg,crack4644.png,crack4644.json,Crack
+crack4665.jpg,crack4665.png,crack4665.json,Crack
+crack4677.jpg,crack4677.png,crack4677.json,Crack
+crack4752.jpg,crack4752.png,crack4752.json,Crack
+crack4895.jpg,crack4895.png,crack4895.json,Crack
+crack4899.jpg,crack4899.png,crack4899.json,Crack
+crack5010.jpg,crack5010.png,crack5010.json,Crack
+crack5150.jpg,crack5150.png,crack5150.json,Crack
+crack5151.jpg,crack5151.png,crack5151.json,Crack
+crack5152.jpg,crack5152.png,crack5152.json,Crack
+crack5357.jpg,crack5357.png,crack5357.json,Crack
+crack5361.jpg,crack5361.png,crack5361.json,Crack
+crack5369.jpg,crack5369.png,crack5369.json,Crack
+crack5422.jpg,crack5422.png,crack5422.json,Crack
+crack5426.jpg,crack5426.png,crack5426.json,Crack
+crack6498.jpg,crack6498.png,crack6498.json,Crack
+crack6516.jpg,crack6516.png,crack6516.json,Crack
+crack6586.jpg,crack6586.png,crack6586.json,Crack
+crack6598.jpg,crack6598.png,crack6598.json,Crack
+crack6789.jpg,crack6789.png,crack6789.json,Crack
+crack6792.jpg,crack6792.png,crack6792.json,Crack
+crack6793.jpg,crack6793.png,crack6793.json,Crack
+crack6795.jpg,crack6795.png,crack6795.json,Crack
+crack6805.jpg,crack6805.png,crack6805.json,Crack
+crack803.jpg,crack803.png,crack803.json,Crack
+crack8072.jpg,crack8072.png,crack8072.json,Crack
+crack812.jpg,crack812.png,crack812.json,Crack
+crack815.jpg,crack815.png,crack815.json,Crack
+crack8181.jpg,crack8181.png,crack8181.json,Crack
+crack821.jpg,crack821.png,crack821.json,Crack
+crack828.jpg,crack828.png,crack828.json,Crack
+crack8286.jpg,crack8286.png,crack8286.json,Crack
+damage101.jpg,damage101.png,damage101.json,Rebar exposure
+damage1020.jpg,damage1020.png,damage1020.json,Concrete spalling;Rebar corrosion
+damage1022.jpg,damage1022.png,damage1022.json,Rebar corrosion
+damage1045.jpg,damage1045.png,damage1045.json,Rebar corrosion
+damage1048.jpg,damage1048.png,damage1048.json,Rebar corrosion
+damage1049.jpg,damage1049.png,damage1049.json,Rebar corrosion
+damage1050.jpg,damage1050.png,damage1050.json,Rebar corrosion
+damage1066.jpg,damage1066.png,damage1066.json,Rebar corrosion
+damage1071.jpg,damage1071.png,damage1071.json,Rebar corrosion
+damage1084.jpg,damage1084.png,damage1084.json,Rebar corrosion
+damage110.jpg,damage110.png,damage110.json,Rebar corrosion
+damage1101.jpg,damage1101.png,damage1101.json,Crack
+damage1103.jpg,damage1103.png,damage1103.json,Concrete spalling
+damage1107.jpg,damage1107.png,damage1107.json,Concrete spalling;Rebar corrosion
+damage1108.jpg,damage1108.png,damage1108.json,Concrete crushing;Concrete spalling;Rebar corrosion
+damage1111.jpg,damage1111.png,damage1111.json,Concrete spalling
+damage1116.jpg,damage1116.png,damage1116.json,Crack;Rebar corrosion
+damage119.jpg,damage119.png,damage119.json,Rebar corrosion
+damage124.jpg,damage124.png,damage124.json,Rebar corrosion
+damage145.jpg,damage145.png,damage145.json,Rebar exposure
+damage154.jpg,damage154.png,damage154.json,Rebar corrosion
+damage163.jpg,damage163.png,damage163.json,Rebar corrosion
+damage204.jpg,damage204.png,damage204.json,Concrete spalling;Crack;Rebar corrosion
+damage211.jpg,damage211.png,damage211.json,Crack;Rebar corrosion
+damage217.jpg,damage217.png,damage217.json,Rebar corrosion
+damage218.jpg,damage218.png,damage218.json,Rebar corrosion
+damage220.jpg,damage220.png,damage220.json,Rebar corrosion
+damage222.jpg,damage222.png,damage222.json,Rebar exposure
+damage224.jpg,damage224.png,damage224.json,Rebar corrosion
+damage228.jpg,damage228.png,damage228.json,Concrete crushing;Crack
+damage233.jpg,damage233.png,damage233.json,Concrete crushing
+damage234.jpg,damage234.png,damage234.json,Concrete spalling;Rebar corrosion
+damage239.jpg,damage239.png,damage239.json,Rebar exposure
+damage243.jpg,damage243.png,damage243.json,Rebar corrosion
+damage260.jpg,damage260.png,damage260.json,Crack
+damage267.jpg,damage267.png,damage267.json,Concrete spalling;Crack
+damage275.jpg,damage275.png,damage275.json,Crack
+damage280.jpg,damage280.png,damage280.json,Crack
+damage295.jpg,damage295.png,damage295.json,Concrete spalling
+damage303.jpg,damage303.png,damage303.json,Crack
+damage317.jpg,damage317.png,damage317.json,Crack
+damage321.jpg,damage321.png,damage321.json,Crack
+damage327.jpg,damage327.png,damage327.json,Crack
+damage329.jpg,damage329.png,damage329.json,Crack
+damage335.jpg,damage335.png,damage335.json,Crack
+damage342.jpg,damage342.png,damage342.json,Crack
+damage359.jpg,damage359.png,damage359.json,Crack
+damage361.jpg,damage361.png,damage361.json,Rebar corrosion
+damage381.jpg,damage381.png,damage381.json,Rebar corrosion
+damage389.jpg,damage389.png,damage389.json,Rebar corrosion
+damage403.jpg,damage403.png,damage403.json,Rebar corrosion
+damage409.jpg,damage409.png,damage409.json,Rebar corrosion
+damage413.jpg,damage413.png,damage413.json,Crack;Rebar exposure
+damage418.jpg,damage418.png,damage418.json,Rebar corrosion
+damage427.jpg,damage427.png,damage427.json,Rebar corrosion
+damage446.jpg,damage446.png,damage446.json,Rebar corrosion
+damage45.jpg,damage45.png,damage45.json,Rebar corrosion
+damage453.jpg,damage453.png,damage453.json,Rebar corrosion
+damage454.jpg,damage454.png,damage454.json,Rebar corrosion
+damage474.jpg,damage474.png,damage474.json,Rebar corrosion
+damage481.jpg,damage481.png,damage481.json,Rebar corrosion
+damage482.jpg,damage482.png,damage482.json,Rebar corrosion
+damage483.jpg,damage483.png,damage483.json,Rebar corrosion
+damage493.jpg,damage493.png,damage493.json,Rebar corrosion
+damage508.jpg,damage508.png,damage508.json,Rebar corrosion
+damage519.jpg,damage519.png,damage519.json,Rebar corrosion
+damage526.jpg,damage526.png,damage526.json,Rebar corrosion
+damage541.jpg,damage541.png,damage541.json,Rebar corrosion
+damage544.jpg,damage544.png,damage544.json,Rebar corrosion
+damage559.jpg,damage559.png,damage559.json,Rebar corrosion
+damage56.jpg,damage56.png,damage56.json,Rebar corrosion
+damage566.jpg,damage566.png,damage566.json,Crack
+damage567.jpg,damage567.png,damage567.json,Crack
+damage577.jpg,damage577.png,damage577.json,Crack
+damage578.jpg,damage578.png,damage578.json,Crack
+damage585.jpg,damage585.png,damage585.json,Crack
+damage61.jpg,damage61.png,damage61.json,Concrete spalling;Rebar corrosion
+damage615.jpg,damage615.png,damage615.json,Crack
+damage637.jpg,damage637.png,damage637.json,Crack
+damage649.jpg,damage649.png,damage649.json,Crack
+damage654.jpg,damage654.png,damage654.json,Rebar corrosion
+damage662.jpg,damage662.png,damage662.json,Concrete crushing
+damage667.jpg,damage667.png,damage667.json,Concrete crushing
+damage669.jpg,damage669.png,damage669.json,Concrete crushing
+damage674.jpg,damage674.png,damage674.json,Crack
+damage680.jpg,damage680.png,damage680.json,Crack
+damage701.jpg,damage701.png,damage701.json,Crack
+damage708.jpg,damage708.png,damage708.json,Crack
+damage71.jpg,damage71.png,damage71.json,Crack;Rebar exposure
+damage719.jpg,damage719.png,damage719.json,Crack
+damage731.jpg,damage731.png,damage731.json,Crack
+damage737.jpg,damage737.png,damage737.json,Crack
+damage748.jpg,damage748.png,damage748.json,Crack
+damage753.jpg,damage753.png,damage753.json,Concrete spalling
+damage763.jpg,damage763.png,damage763.json,Crack
+damage778.jpg,damage778.png,damage778.json,Concrete crushing
+damage780.jpg,damage780.png,damage780.json,Crack
+damage801.jpg,damage801.png,damage801.json,Concrete crushing
+damage810.jpg,damage810.png,damage810.json,Rebar exposure
+damage811.jpg,damage811.png,damage811.json,Concrete spalling;Crack
+damage813.jpg,damage813.png,damage813.json,Crack;Rebar corrosion
+damage838.jpg,damage838.png,damage838.json,Concrete spalling
+damage841.jpg,damage841.png,damage841.json,Rebar corrosion
+damage849.jpg,damage849.png,damage849.json,Rebar corrosion
+damage859.jpg,damage859.png,damage859.json,Crack;Rebar corrosion
+damage888.jpg,damage888.png,damage888.json,Rebar exposure
+damage895.jpg,damage895.png,damage895.json,Rebar corrosion
+damage896.jpg,damage896.png,damage896.json,Rebar corrosion
+damage903.jpg,damage903.png,damage903.json,Rebar corrosion
+damage932.jpg,damage932.png,damage932.json,Concrete spalling
+damage950.jpg,damage950.png,damage950.json,Concrete spalling
+damage970.jpg,damage970.png,damage970.json,Concrete spalling
+damage980.jpg,damage980.png,damage980.json,Concrete spalling;Crack;Rebar corrosion
+damage983.jpg,damage983.png,damage983.json,Rebar corrosion
+damage985.jpg,damage985.png,damage985.json,Rebar corrosion

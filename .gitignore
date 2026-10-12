@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Model checkpoints & generated outputs
+checkpoints/
+
+.DS_Store
