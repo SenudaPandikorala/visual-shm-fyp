@@ -28,7 +28,33 @@ PROJECT_PATH = Path(__file__).resolve().parents[1]
 CHECKPOINT_DIR = PROJECT_PATH / "checkpoints"
 CHECKPOINT_DIR.mkdir(parents=True, exist_ok=True)
 
-BEST_MODEL_PATH = CHECKPOINT_DIR / "unet_best.pth"
+BEST_MODEL_PATH = CHECKPOINT_DIR / "unet_weighted_best.pth"
+
+CLASS_WEIGHTS_PATH = CHECKPOINT_DIR / "class_weights.npy"
+
+class_weights_array = np.load(CLASS_WEIGHTS_PATH)
+
+if class_weights_array.shape != (NUM_CLASSES,):
+    raise ValueError("Expected exactly 6 class weights.")
+
+if not np.isfinite(class_weights_array).all():
+    raise ValueError("Class weights contain invalid values.")
+
+if torch.backends.mps.is_available():
+    device = torch.device("mps")
+else:
+    device = torch.device("cpu")
+
+print("Using device:", device)
+
+
+class_weights = torch.tensor(
+    class_weights_array,
+    dtype=torch.float32,
+    device=device,
+)
+
+print("Class weights:", class_weights.cpu().tolist())
 
 
 # --------------------------------------------------
@@ -39,12 +65,7 @@ random.seed(SEED)
 np.random.seed(SEED)
 torch.manual_seed(SEED)
 
-if torch.backends.mps.is_available():
-    device = torch.device("mps")
-else:
-    device = torch.device("cpu")
 
-print("Using device:", device)
 
 
 # --------------------------------------------------
@@ -83,7 +104,7 @@ print("Validation images:", len(validation_dataset))
 
 model = UNet(num_classes=NUM_CLASSES).to(device)
 
-criterion = nn.CrossEntropyLoss()
+criterion = nn.CrossEntropyLoss(weight=class_weights)
 
 optimizer = torch.optim.Adam(
     model.parameters(),

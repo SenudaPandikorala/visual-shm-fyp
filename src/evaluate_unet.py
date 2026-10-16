@@ -16,7 +16,9 @@ from unet import UNet
 # --------------------------------------------------
 
 PROJECT_PATH = Path(__file__).resolve().parents[1]
-CHECKPOINT_PATH = PROJECT_PATH / "checkpoints" / "unet_best.pth"
+CHECKPOINT_PATH = (
+    PROJECT_PATH / "checkpoints" / "unet_weighted_best.pth"
+)
 
 NUM_CLASSES = 6
 BATCH_SIZE = 4

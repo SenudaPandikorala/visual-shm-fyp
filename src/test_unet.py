@@ -6,6 +6,7 @@ from dataset import StructuralDefectDataset, SPLIT_DIR
 from unet import UNet
 
 
+
 def main():
 
     # Select Apple's GPU when available.
